@@ -15,7 +15,7 @@
   box-sizing:border-box;
   font-family:'Playfair Display', serif;
 }
-body{ background:url(https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1776&q=80);
+body{ background:url('https://png.pngtree.com/background/20230621/original/pngtree-rapidly-satisfy-your-hunger-with-3d-fast-food-background-03-picture-image_3910286.jpg');
   background-size:cover;
   background-position:right;
   background-attachment:fixed;
@@ -98,9 +98,11 @@ body{ background:url(https://images.unsplash.com/photo-1495195129352-aeb325a55b6
 
     </a>
 </h1>
-<p>
 
-Design Credits: Cristian Andres de Avila Fonseca
+
+<div class="alert alert-warning" role="alert">
+  <h4 class="alert-heading">Developers Poroggamming this Andres de Avila Ficha: 2558346 </h4>
+  <p>Design Credits: Cristian Andres de Avila Fonseca
 
 SENA ID: 2558346
 
@@ -114,8 +116,11 @@ Icon Credits: FontAwesome
 We would like to express our gratitude to FontAwesome for providing the stylish and intuitive icons used throughout the website. These icons not only enhance the visual appeal but also contribute to the overall functionality and navigation.
 
 Connect with Us:
-Stay connected with us on social media! Click on the icons below to visit our official profiles.
-</p>
+Stay connected with us on social media! Click on the icons below to visit our official profiles..</p>
+  <hr>
+  <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+</div>
+
 
 <style>
 .alert {
@@ -142,7 +147,7 @@ Stay connected with us on social media! Click on the icons below to visit our of
 </head>
 <body>
 
-<h2>Products in the future !!!</h2>
+<h1 style="color: white;">Products in the future !!!</h1>
 <br><br>
 
 <div class="alert">
