@@ -1,1 +1,54 @@
-Mensaje de test del readme de Sitio 
+# Food E-commerce Platform
+
+Este proyecto es un sistema de comercio electrónico para un sitio de comidas rápidas llamado "Food". Permite a los usuarios realizar pedidos, gestionar su cuenta y disfrutar de una experiencia virtual en la fila mientras esperan su turno.
+
+## Características
+
+- **Inicio de Sesión:** Los usuarios pueden iniciar sesión para acceder a funciones personalizadas, como la visualización del historial de pedidos y la gestión de la cuenta.
+
+- **Base de Datos:** Utiliza MySQL como base de datos principal, con la opción de escalar a PostgreSQL para adaptarse a diferentes necesidades y preferencias.
+
+- **Fila Virtual:** Los usuarios pueden unirse a una fila virtual y esperar su turno de forma virtual antes de realizar un pedido, mejorando la eficiencia y la experiencia del cliente.
+
+## Autor
+
+- **Nombre:** Andres de Avila
+- **Número de Ficha:** 2558346
+
+## Cómo Clonar y Ejecutar el Proyecto
+
+1. **Clonar el Repositorio:**
+   ```bash
+   git clone 
+   cd food-e-commerce
+and execute the proyect  
+
+
+## Configurar la Base de Datos:
+
+1. **Importar el archivo database.sql:**
+   - Importa el archivo `database.sql` en tu servidor MySQL.
+
+2. **Configurar las credenciales de la base de datos:**
+   - Configura las credenciales de tu base de datos en el archivo de conexión (`db.php`).
+
+## Iniciar el Servidor:
+
+Configura tu servidor web (por ejemplo, Apache) para que apunte al directorio del proyecto.
+
+## Acceder a la Aplicación:
+
+Abre tu navegador y visita [http://localhost](http://localhost) para ver la aplicación en funcionamiento.
+
+## Contribuciones:
+
+¡Contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor crea un issue o envía un pull request.
+
+## Licencia:
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+
+Proyecto Ejecutado Aqui :  
+
+
